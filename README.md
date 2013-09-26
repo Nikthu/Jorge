@@ -1,5 +1,5 @@
-Jorge Villanueva
-27 años
-Grado en Ingenieria de Software
+<nombre>Jorge Villanueva</nombre>
+<edad>27 años</edad>
+<carrera>Grado en Ingenieria de Software</carrera>
 
-Soy Jorge y me gusta viajar y los juegos de mesa
+<ocio>Soy Jorge y me gusta viajar y los juegos de mesa</ocio>
